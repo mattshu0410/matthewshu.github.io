@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Shu</title>
+    <link>https://matthewshu.me/</link>
+    <description>Recent content on Matthew Shu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Dec 2021 15:36:16 +1100</lastBuildDate><atom:link href="https://matthewshu.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://matthewshu.me/posts/helloworld/</link>
+      <pubDate>Thu, 16 Dec 2021 15:36:16 +1100</pubDate>
+      
+      <guid>https://matthewshu.me/posts/helloworld/</guid>
+      <description>This is my first ever post.
+print(&amp;#34;Hello World&amp;#34;) </description>
+    </item>
+    
+  </channel>
+</rss>
