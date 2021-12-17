@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Congo</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Congo</description>
+    <title>Posts on Matthew Shu</title>
+    <link>https://matthewshu.me/posts/</link>
+    <description>Recent content in Posts on Matthew Shu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 16 Dec 2021 15:36:16 +1100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-AU</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Thu, 16 Dec 2021 15:36:16 +1100</lastBuildDate><atom:link href="https://matthewshu.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>/posts/helloworld/</link>
+      <link>https://matthewshu.me/posts/helloworld/</link>
       <pubDate>Thu, 16 Dec 2021 15:36:16 +1100</pubDate>
       
-      <guid>/posts/helloworld/</guid>
+      <guid>https://matthewshu.me/posts/helloworld/</guid>
       <description>This is my first ever post.</description>
     </item>
     
